@@ -33,8 +33,8 @@ Links to datasets used.
 Links
 -----
 
-+ Link to [http://example.com](github repository)
-+ Link to [http://example.com](running example) where appropriate
++ Link to [github repository](http://example.com)
++ Link to [running examples](http://example.com) where appropriate
 
 Tech stack
 ------
